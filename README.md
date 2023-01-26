@@ -1,11 +1,11 @@
 # Challenge_Mole
 The objective of the project is to build a tool that detects moles on the human body that need to be handled by doctors.
 
-#Description
+# Description
 The project is divided into 4 steps represented in the folder structure of this repository.
 
 
-#Getting Started
+# Getting Started
 Dependencies needed before running the program.
 
 reqt.txt
@@ -13,17 +13,17 @@ reqt.txt
 Executing program How to run the program step-by-step.
 
 
-Output
+# Output
 
 (image)
 
-Next Steps 
+# Next Steps 
 
-License
+# License
 Free license
 
-Contact
+# Contact
 Nicy Jacob: nicy.ck@gmail.com
 
-Acknowledgments
+# Acknowledgments
 BeCode Arai4 AI coaches(Chrysanthi and Louis)
