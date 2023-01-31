@@ -15,7 +15,7 @@ Executing program How to run the program step-by-step.
 
 # Output
 
-(image)
+![UIimage](https://user-images.githubusercontent.com/113432231/215800855-e8fcf76b-a9ce-47a0-b64c-d937c188fbd6.png)
 
 # Next Steps 
 The following steps would improve the image classification further:
