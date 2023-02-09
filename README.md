@@ -13,7 +13,8 @@ Mole Detection Interface: The 'Demo - Mole Detection.ipynb' file contains the pr
 ## Getting Started
 Dependencies needed before running the program. 
 
-    pip install reqt.txt
+    pip install gradio
+    pip install opencv-python
 
 Executing program: 
 Run the file Demo - Mole Detection.ipynb
