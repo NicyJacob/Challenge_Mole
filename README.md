@@ -21,7 +21,7 @@ Run the file Demo - Mole Detection.ipynb
 
 
 ## Output
-
+![Interface](https://user-images.githubusercontent.com/113432231/217790245-51ceb7cf-3368-4e84-ac86-26ec0deacf30.png)
 
 
 ## Next Steps 
