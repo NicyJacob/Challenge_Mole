@@ -1,10 +1,13 @@
 # Challenge_Mole
-The objective of the project is to build a tool that detects moles on the human body that need to be handled by doctors.
+The objective is to develop a tool that identifies moles on the human body that require medical attention. This solution will empower individuals to take control of their skin health, and provide a simple and efficient way for doctors to identify moles that may need further examination.
+
 
 ## Description
-The project is divided into 2 steps represented in the folder structure of this repository.
-1. Code : This folder has the python code used for training the neural network (CNN model). The dataset used for training has images of benign and malignant skin cancers.
-2. Demo - Mole Detection.ipynb : This program runs the interface that detects cancerous moles based on the image uploaded.
+The project is divided into two stages, which are captured in the folder structure of the repository.
+
+Neural Network Training: The 'Code' folder holds the Python code responsible for training a Convolutional Neural Network (CNN) model. The model is trained using a dataset that features images of benign and malignant skin cancers.
+
+Mole Detection Interface: The 'Demo - Mole Detection.ipynb' file contains the program that powers the interface used to detect cancerous moles. Simply upload an image, and the program will use the trained CNN model to identify moles that may require medical attention.
 
 
 ## Getting Started
@@ -12,18 +15,21 @@ Dependencies needed before running the program.
 
     pip install reqt.txt
 
-Executing program: Run the file Demo - Mole Detection.ipynb
+Executing program: 
+Run the file Demo - Mole Detection.ipynb
 
 
 
 ## Output
 
-![UIimage](https://user-images.githubusercontent.com/113432231/215800855-e8fcf76b-a9ce-47a0-b64c-d937c188fbd6.png)
+
 
 ## Next Steps 
-The following steps would improve the image classification further:
-1. Using a multi-input neural network - The features like age, gender and localization from the metadata can be added along with the images to the neural network. 
-2. Using a pre-trained model - Several pre-trained models are available for image classification. VGG-16, ResNet50, Xception are a few examples. Using pre-trained model could save on training time and also give access to the tools already available online.
+To further enhance the accuracy of image classification, consider the following steps:
+
+Multi-Input Neural Network: By incorporating additional features such as age, gender, and location from metadata, a multi-input neural network can provide even more context and precision when classifying images.
+
+Pre-Trained Model Utilization: A wide range of pre-trained models are readily available for image classification, including VGG-16, ResNet50, and Xception. Adopting a pre-trained model can significantly reduce training time and give access to established online tools, ultimately resulting in improved accuracy and efficiency.
 
 ## License
 Free license
